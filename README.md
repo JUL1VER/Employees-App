@@ -1,3 +1,7 @@
+Данный проект написан на чистом JavaScript.
+
+Является приложением для просмотра сотрудников компании, их можно повысить, выдать премию, отредактировать данные. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
